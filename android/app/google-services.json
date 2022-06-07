@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088411609002",
+    "project_id": "shopping-cart-workshop",
+    "storage_bucket": "shopping-cart-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088411609002:android:42fcc10a4eb6f742106dd3",
+        "android_client_info": {
+          "package_name": "com.amfoss.shopping_cart_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088411609002-k0kslcgi6aeove7ilc0ce832dhedioql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amfoss.shopping_cart_workshop",
+            "certificate_hash": "27ea33a36c68d66f927e4e64f1bb2805b7eea141"
+          }
+        },
+        {
+          "client_id": "1088411609002-k2tqhlc7pqavao7c3m7qf52jiksi2arj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLq6nzj21aMhQoQWqF9dXvTGdPZrYAaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088411609002-k2tqhlc7pqavao7c3m7qf52jiksi2arj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
